@@ -4,7 +4,7 @@
 #
 Name     : php-Yaf
 Version  : 3.0.9
-Release  : 3
+Release  : 4
 URL      : https://pecl.php.net/get/yaf-3.0.9.tgz
 Source0  : https://pecl.php.net/get/yaf-3.0.9.tgz
 Summary  : No detailed summary available
@@ -12,6 +12,7 @@ Group    : Development/Tools
 License  : PHP-3.01
 Requires: php-Yaf-lib = %{version}-%{release}
 BuildRequires : buildreq-php
+BuildRequires : pcre2-dev
 
 %description
 No detailed description available
@@ -45,4 +46,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/yaf.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/yaf.so
