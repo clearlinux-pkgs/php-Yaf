@@ -4,7 +4,7 @@
 #
 Name     : php-Yaf
 Version  : 3.0.9
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net/get/yaf-3.0.9.tgz
 Source0  : https://pecl.php.net/get/yaf-3.0.9.tgz
 Summary  : No detailed summary available
