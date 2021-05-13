@@ -4,7 +4,7 @@
 #
 Name     : php-Yaf
 Version  : 3.3.2
-Release  : 21
+Release  : 22
 URL      : https://pecl.php.net/get/yaf-3.3.2.tgz
 Source0  : https://pecl.php.net/get/yaf-3.3.2.tgz
 Summary  : No detailed summary available
